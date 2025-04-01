@@ -3,8 +3,8 @@ title: 小满 Blog
 SEOTitle: 小满的博客 | 小满 Blog
 header-img: img/home-bg.jpg
 email: wangtingcool@gmail.com
-description: "这里是 @小满小满 的个人博客"
-keyword: "小满, 小满小满, 小满, 鬼栈, 小满, @小满, 小满的博客, 小满 Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @小满 的个人博客"
+keyword: "小满, 小满, 小满, 鬼栈, 小满, @小满, 小满的博客, 小满 Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://www.waiu.bid" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
